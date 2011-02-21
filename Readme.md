@@ -1,4 +1,5 @@
-===Simple Perceptron written in Processing===
+Simple Perceptron written in Processing
+=======================================
 
 The function we were trying to train on was that of a Bro's decision making process about the hotness of a girl while at a party.
 
